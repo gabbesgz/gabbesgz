@@ -1,10 +1,10 @@
-## Opa
+## Boas vindas ao meu perfil 💙💙
 
 <!--
 **gabbesgz/gabbesgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Boas vindas ao meu perfil 💙💙
+
 Meu nome é Gabriel Gomes
 
 Estou estudando na Alura
